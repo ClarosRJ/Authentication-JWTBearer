@@ -1,0 +1,3 @@
+﻿tienes que configurar el servicio a bd
+tienes que realizar la migracion
+iniciar session con el usuario por defecto
